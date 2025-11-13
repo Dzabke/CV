@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.image {
+    margin: auto;
+    width: 50%;
+}
+
+img {
+    border: solid white 5px;
+    width: 100%;
+    
+}
+
+.text {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
